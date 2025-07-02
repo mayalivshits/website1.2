@@ -1,0 +1,169 @@
+{
+  "label": "Patients Tracks",
+  "description": "Clinical measurements and histone marks for patients",
+  "tracks": [
+    {
+      "name": "ALANINE.AM.TRAN (ALT)",
+      "url": "bedgraphs_by_label/ALANINE.AM.TRAN (ALT).bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "ALBUMIN",
+      "url": "bedgraphs_by_label/ALBUMIN.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "ALK. PHOS.",
+      "url": "bedgraphs_by_label/ALK. PHOS..bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "ASPART.AM.TRANS (AST)",
+      "url": "bedgraphs_by_label/ASPART.AM.TRANS (AST).bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "BILE ACIDS",
+      "url": "bedgraphs_by_label/BILE ACIDS.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "Biopsy_value-0.1_number-1_of_1",
+      "url": "bedgraphs_by_label/Biopsy_value-0.1_number-1_of_1.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "CMV-PCR",
+      "url": "bedgraphs_by_label/CMV-PCR.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "CREATININE",
+      "url": "bedgraphs_by_label/CREATININE.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "DIASTASE",
+      "url": "bedgraphs_by_label/DIASTASE.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "EBV-PCR",
+      "url": "bedgraphs_by_label/EBV-PCR.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "GGTP",
+      "url": "bedgraphs_by_label/GGTP.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "GLUCOSE",
+      "url": "bedgraphs_by_label/GLUCOSE.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "H3K4me3_value-0.1_number-3_of_3",
+      "url": "bedgraphs_by_label/H3K4me3_value-0.1_number-3_of_3.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "H3K4me3_value-1_number-1_of_3",
+      "url": "bedgraphs_by_label/H3K4me3_value-1_number-1_of_3.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "H3K4me3_value-2_number-2_of_3",
+      "url": "bedgraphs_by_label/H3K4me3_value-2_number-2_of_3.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "HGB",
+      "url": "bedgraphs_by_label/HGB.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "INR",
+      "url": "bedgraphs_by_label/INR.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "LDH",
+      "url": "bedgraphs_by_label/LDH.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "LYMPHOCYTE%",
+      "url": "bedgraphs_by_label/LYMPHOCYTE%.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "NEUTROPHILE%",
+      "url": "bedgraphs_by_label/NEUTROPHILE%.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "PLATELETS",
+      "url": "bedgraphs_by_label/PLATELETS.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "POTASSIUM",
+      "url": "bedgraphs_by_label/POTASSIUM.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "SODIUM",
+      "url": "bedgraphs_by_label/SODIUM.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "T.BILIRUBIN",
+      "url": "bedgraphs_by_label/T.BILIRUBIN.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "UREA",
+      "url": "bedgraphs_by_label/UREA.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "WBC",
+      "url": "bedgraphs_by_label/WBC.bedGraph",
+      "format": "bedgraph",
+      "autoscale": true
+    },
+    {
+      "name": "Annotations",
+      "url": "annotations.gff",
+      "format": "gff",
+      "color": "0,128,0",
+      "displayMode": "EXPANDED"
+    }
+  ]
+}
